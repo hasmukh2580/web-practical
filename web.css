@@ -1,0 +1,130 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0%;
+}
+.header
+{
+    height: 90px;
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+}
+.logo
+{
+    height: 80px;
+    width: 10%;
+}
+.logo img
+{
+    height: 80px;
+    width: 100px;
+}
+.logo img
+{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    box-shadow: black 15px 0px 15px;
+}
+.name
+{
+    height: 80px;
+    width: 90%;
+    text-align: center;
+    font-size: 35px;
+    line-height: 80px;
+}
+.nav
+{
+    height: 40px;
+    width: 100%;
+    /* background-color: bisque; */
+}
+ul
+{
+    height: 40px;
+    width: 100%;
+    display: flex;
+}
+li
+{
+    list-style: none;
+    padding: 10px 20px;
+}
+li:hover
+{
+    background-color: black;
+    color: #fff;
+}
+.content
+{
+    height: 400px;
+    width: 100%;
+}
+.content img
+{
+    height: 400px;
+    width: 100%;
+}
+.content img
+{
+    height: 400px;
+    width: 100%;
+    background-color: aqua;
+    box-shadow: aqua 15px 0px 15px;
+}
+.main
+{
+    height: auto;
+    width: 90%;
+    margin-top: 5px;
+    /* background-color: black; */
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+}
+.gallery
+{
+    height: auto;
+    width: 25%;
+    
+}
+.gallery img
+{
+    height: 150px;
+    width: 100%;
+}
+.gallery img
+{
+    height: 150px;
+    width: 100%;
+    background-color: gold;
+    box-shadow: gold 15px 0px 15px;
+}
+.offer
+{
+    height: auto;
+    width: 40%;
+    margin-top: 150px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 25px;
+}
+.discount
+{
+    height: auto;
+    width: 25%;
+    background-color: lightblue;
+}
+.h1
+{
+    height: auto;
+    width: 100%;
+}
+.footer
+{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
